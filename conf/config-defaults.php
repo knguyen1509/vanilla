@@ -7,6 +7,8 @@ $Configuration = array();
 
 $Configuration['EnabledApplications']['Dashboard']             = 'dashboard';
 
+$Configuration['Debug'] = true;
+
 $Configuration['Database']['Engine']                           = 'MySQL';
 $Configuration['Database']['Host']                             = 'dbhost';
 $Configuration['Database']['Name']                             = 'dbname';
